@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/Users/atnoy/Desktop/CSCE/221/assignment-sorting-vectors/build",
+  "command": "/usr/bin/c++    -Wall -pedantic -g -std=gnu++17 -o CMakeFiles/SortingVectors.dir/src/main.cpp.o -c /mnt/c/Users/atnoy/Desktop/CSCE/221/assignment-sorting-vectors/src/main.cpp",
+  "file": "/mnt/c/Users/atnoy/Desktop/CSCE/221/assignment-sorting-vectors/src/main.cpp"
+}
+]
