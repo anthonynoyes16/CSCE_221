@@ -1,0 +1,3 @@
+/mnt/c/Users/atnoy/Desktop/CSCE/221/assignment-vector/build/CMakeFiles/Vector.dir
+/mnt/c/Users/atnoy/Desktop/CSCE/221/assignment-vector/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/atnoy/Desktop/CSCE/221/assignment-vector/build/CMakeFiles/rebuild_cache.dir
